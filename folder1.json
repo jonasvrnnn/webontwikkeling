@@ -1,4 +1,19 @@
+[
 {
-    "naam": "Voorbeeld 1",
-    "pad": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/"
+    "name": "Keigo Takami",
+    "heroName": "Hawks",
+    "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/hero.jpeg"
 }
+,
+{
+    "name": "Shota Aizawa",
+    "heroName":"Eraser Head",
+    "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/eraser_head.jpg"
+}
+,
+{
+    "name":"Toshinori Yagi",
+    "HeroName":"All Might",
+    "image":"https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/all_might.jpg"
+}
+]
