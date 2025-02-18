@@ -1,19 +1,192 @@
 [
-{
-    "name": "Keigo Takami",
-    "heroName": "Hawks",
-    "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/hero.jpeg"
-}
-,
-{
-    "name": "Shota Aizawa",
-    "heroName":"Eraser Head",
-    "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/eraser_head.jpg"
-}
-,
-{
-    "name":"Toshinori Yagi",
-    "HeroName":"All Might",
-    "image":"https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/all_might.jpg"
-}
+    {
+        "id": 1,
+        "name": "Keigo Takami",
+        "heroName": "Hawks",
+        "description": "Een Pro Hero met rode vleugels die super snel kan vliegen en zijn veren kan manipuleren.",
+        "age": 23,
+        "isActive": true,
+        "birthDate": "1997-12-28",
+        "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/hero.jpeg",
+        "rank": "Pro Hero",
+        "hobbies": ["Vliegen", "Spionage", "Lezen"],
+        "agency": {
+            "id": 101,
+            "name": "Hawks Hero Agency",
+            "location": "Kyushu, Japan",
+            "founded": 2015,
+            "isGovernmentAffiliated": true
+        }
+    },
+    {
+        "id": 2,
+        "name": "Shota Aizawa",
+        "heroName": "Eraser Head",
+        "description": "Een Pro Hero en leraar op U.A. High die Quirks kan annuleren met zijn blik.",
+        "age": 31,
+        "isActive": true,
+        "birthDate": "1989-11-08",
+        "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/eraser_head.jpg",
+        "rank": "Pro Hero",
+        "hobbies": ["Slapen", "Training geven", "Katten verzorgen"],
+        "agency": {
+            "id": 102,
+            "name": "U.A. High School",
+            "location": "Musutafu, Japan",
+            "founded": 1900,
+            "isGovernmentAffiliated": true
+        }
+    },
+    {
+        "id": 3,
+        "name": "Toshinori Yagi",
+        "heroName": "All Might",
+        "description": "De voormalige nummer 1 Pro Hero en symbool van vrede.",
+        "age": 49,
+        "isActive": false,
+        "birthDate": "1971-06-10",
+        "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/all_might.jpg",
+        "rank": "Ex-Pro Hero",
+        "hobbies": ["Helden inspireren", "Les geven", "Training"],
+        "agency": {
+            "id": 103,
+            "name": "U.A. High School",
+            "location": "Musutafu, Japan",
+            "founded": 1900,
+            "isGovernmentAffiliated": true
+        }
+    },
+    {
+        "id": 4,
+        "name": "Katsuki Bakugo",
+        "heroName": "Dynamight",
+        "description": "Een getalenteerde jonge held met explosieve krachten en een opvliegend karakter.",
+        "age": 18,
+        "isActive": true,
+        "birthDate": "2002-04-20",
+        "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/bakugo.jpg",
+        "rank": "Student Hero",
+        "hobbies": ["Trainen", "Koken", "Explosies testen"],
+        "agency": {
+            "id": 104,
+            "name": "U.A. High School",
+            "location": "Musutafu, Japan",
+            "founded": 1900,
+            "isGovernmentAffiliated": true
+        }
+    },
+    {
+        "id": 5,
+        "name": "Izuku Midoriya",
+        "heroName": "Deku",
+        "description": "Een toegewijde jonge held met de kracht van One For All.",
+        "age": 17,
+        "isActive": true,
+        "birthDate": "2003-07-15",
+        "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/deku.jpg",
+        "rank": "Student Hero",
+        "hobbies": ["Helden analyseren", "Trainingsschema's maken", "Sporten"],
+        "agency": {
+            "id": 104,
+            "name": "U.A. High School",
+            "location": "Musutafu, Japan",
+            "founded": 1900,
+            "isGovernmentAffiliated": true
+        }
+    },
+    {
+        "id": 6,
+        "name": "Endeavor",
+        "heroName": "Enji Todoroki",
+        "description": "De huidige nummer 1 Pro Hero met de kracht van vuur.",
+        "age": 46,
+        "isActive": true,
+        "birthDate": "1975-08-08",
+        "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/endeavor.jpg",
+        "rank": "Pro Hero",
+        "hobbies": ["Trainen", "Strategieën ontwikkelen", "Familiebanden herstellen"],
+        "agency": {
+            "id": 105,
+            "name": "Endeavor Hero Agency",
+            "location": "Tokyo, Japan",
+            "founded": 2000,
+            "isGovernmentAffiliated": true
+        }
+    },
+    {
+        "id": 7,
+        "name": "Shoto Todoroki",
+        "heroName": "Shoto",
+        "description": "Een getalenteerde jonge held met zowel ijs- als vuurkrachten.",
+        "age": 18,
+        "isActive": true,
+        "birthDate": "2002-01-11",
+        "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/todoroki.jpg",
+        "rank": "Student Hero",
+        "hobbies": ["Koken", "Trainen", "Boeken lezen"],
+        "agency": {
+            "id": 104,
+            "name": "U.A. High School",
+            "location": "Musutafu, Japan",
+            "founded": 1900,
+            "isGovernmentAffiliated": true
+        }
+    },
+    {
+        "id": 8,
+        "name": "Rumi Usagiyama",
+        "heroName": "Mirko",
+        "description": "Een sterke vrouwelijke Pro Hero met konijnachtige krachten.",
+        "age": 26,
+        "isActive": true,
+        "birthDate": "1994-03-01",
+        "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/mirko.jpg",
+        "rank": "Pro Hero",
+        "hobbies": ["Vechttraining", "Sprinten", "Meditatie"],
+        "agency": {
+            "id": 106,
+            "name": "Mirko Hero Agency",
+            "location": "Osaka, Japan",
+            "founded": 2018,
+            "isGovernmentAffiliated": true
+        }
+    },
+    {
+        "id": 9,
+        "name": "Tamaki Amajiki",
+        "heroName": "Suneater",
+        "description": "Een getalenteerde jonge held die de eigenschappen van het voedsel dat hij eet overneemt.",
+        "age": 18,
+        "isActive": true,
+        "birthDate": "2002-03-04",
+        "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/suneater.jpg",
+        "rank": "Student Hero",
+        "hobbies": ["Eten", "Lezen", "Observeren"],
+        "agency": {
+            "id": 107,
+            "name": "Fat Gum Hero Agency",
+            "location": "Kyoto, Japan",
+            "founded": 2016,
+            "isGovernmentAffiliated": true
+        }
+    },
+    {
+        "id": 10,
+        "name": "Nejire Hado",
+        "heroName": "Nejire-Chan",
+        "description": "Een vriendelijke en energieke heldin met golvende energie-aanvallen.",
+        "age": 18,
+        "isActive": true,
+        "birthDate": "2002-10-06",
+        "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/nejire.jpg",
+        "rank": "Student Hero",
+        "hobbies": ["Interviews geven", "Vriendschappen maken", "Mode"],
+        "agency": {
+            "id": 108,
+            "name": "Ryukyu Hero Agency",
+            "location": "Nagoya, Japan",
+            "founded": 2014,
+            "isGovernmentAffiliated": true
+        }
+    }
 ]
