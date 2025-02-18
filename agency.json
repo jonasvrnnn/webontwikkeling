@@ -1,0 +1,58 @@
+[
+  {
+    "id": 101,
+    "name": "Hawks Hero Agency",
+    "location": "Kyushu, Japan",
+    "founded": 2015,
+    "isGovernmentAffiliated": true
+  },
+  {
+    "id": 102,
+    "name": "U.A. High School",
+    "location": "Musutafu, Japan",
+    "founded": 1900,
+    "isGovernmentAffiliated": true
+  },
+  {
+    "id": 103,
+    "name": "U.A. High School",
+    "location": "Musutafu, Japan",
+    "founded": 1900,
+    "isGovernmentAffiliated": true
+  },
+  {
+    "id": 104,
+    "name": "U.A. High School",
+    "location": "Musutafu, Japan",
+    "founded": 1900,
+    "isGovernmentAffiliated": true
+  },
+  {
+    "id": 105,
+    "name": "Endeavor Hero Agency",
+    "location": "Tokyo, Japan",
+    "founded": 2000,
+    "isGovernmentAffiliated": true
+  },
+  {
+    "id": 106,
+    "name": "Mirko Hero Agency",
+    "location": "Osaka, Japan",
+    "founded": 2018,
+    "isGovernmentAffiliated": true
+  },
+  {
+    "id": 107,
+    "name": "Fat Gum Hero Agency",
+    "location": "Kyoto, Japan",
+    "founded": 2016,
+    "isGovernmentAffiliated": true
+  },
+  {
+    "id": 108,
+    "name": "Ryukyu Hero Agency",
+    "location": "Nagoya, Japan",
+    "founded": 2014,
+    "isGovernmentAffiliated": true
+  }
+]
