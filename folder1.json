@@ -7,7 +7,7 @@
         "age": 23,
         "isActive": true,
         "birthDate": "1997-12-28",
-        "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/hero.jpeg",
+        "image": "https://raw.githubusercontent.com/jonasvrbrggn/MileStone0/refs/heads/main/images/hero.jpeg",
         "rank": "Pro Hero",
         "hobbies": ["Vliegen", "Spionage", "Lezen"],
         "agency": {
@@ -26,7 +26,7 @@
         "age": 31,
         "isActive": true,
         "birthDate": "1989-11-08",
-        "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/eraser_head.jpg",
+        "image": "https://raw.githubusercontent.com/jonasvrbrggn/MileStone0/refs/heads/main/images/eraser_head.jpg",
         "rank": "Pro Hero",
         "hobbies": ["Slapen", "Training geven", "Katten verzorgen"],
         "agency": {
@@ -45,7 +45,7 @@
         "age": 49,
         "isActive": false,
         "birthDate": "1971-06-10",
-        "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/all_might.jpg",
+        "image": "https://raw.githubusercontent.com/jonasvrbrggn/MileStone0/refs/heads/main/images/all_might.jpg",
         "rank": "Ex-Pro Hero",
         "hobbies": ["Helden inspireren", "Les geven", "Training"],
         "agency": {
@@ -64,7 +64,7 @@
         "age": 18,
         "isActive": true,
         "birthDate": "2002-04-20",
-        "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/Bakugo.webp",
+        "image": "https://raw.githubusercontent.com/jonasvrbrggn/MileStone0/refs/heads/main/images/Bakugo.webp",
         "rank": "Student Hero",
         "hobbies": ["Trainen", "Koken", "Explosies testen"],
         "agency": {
@@ -83,7 +83,7 @@
         "age": 17,
         "isActive": true,
         "birthDate": "2003-07-15",
-        "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/deku.webp",
+        "image": "https://raw.githubusercontent.com/jonasvrbrggn/MileStone0/refs/heads/main/images/deku.webp",
         "rank": "Student Hero",
         "hobbies": ["Helden analyseren", "Trainingsschema's maken", "Sporten"],
         "agency": {
@@ -102,7 +102,7 @@
         "age": 46,
         "isActive": true,
         "birthDate": "1975-08-08",
-        "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/endevor.webp",
+        "image": "https://raw.githubusercontent.com/jonasvrbrggn/MileStone0/refs/heads/main/images/endevor.webp",
         "rank": "Pro Hero",
         "hobbies": ["Trainen", "Strategieën ontwikkelen", "Familiebanden herstellen"],
         "agency": {
@@ -121,7 +121,7 @@
         "age": 18,
         "isActive": true,
         "birthDate": "2002-01-11",
-        "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/Todoroki.webp",
+        "image": "https://raw.githubusercontent.com/jonasvrbrggn/MileStone0/refs/heads/main/images/Todoroki.webp",
         "rank": "Student Hero",
         "hobbies": ["Koken", "Trainen", "Boeken lezen"],
         "agency": {
@@ -140,7 +140,7 @@
         "age": 26,
         "isActive": true,
         "birthDate": "1994-03-01",
-        "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/mirko.jpg",
+        "image": "https://raw.githubusercontent.com/jonasvrbrggn/MileStone0/refs/heads/main/images/mirko.jpg",
         "rank": "Pro Hero",
         "hobbies": ["Vechttraining", "Sprinten", "Meditatie"],
         "agency": {
@@ -159,7 +159,7 @@
         "age": 18,
         "isActive": true,
         "birthDate": "2002-03-04",
-        "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/tamaki.webp",
+        "image": "https://raw.githubusercontent.com/jonasvrbrggn/MileStone0/refs/heads/main/images/tamaki.webp",
         "rank": "Student Hero",
         "hobbies": ["Eten", "Lezen", "Observeren"],
         "agency": {
@@ -178,7 +178,7 @@
         "age": 18,
         "isActive": true,
         "birthDate": "2002-10-06",
-        "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/nejire.webp",
+        "image": "https://raw.githubusercontent.com/jonasvrbrggn/MileStone0/refs/heads/main/images/nejire.webp",
         "rank": "Student Hero",
         "hobbies": ["Interviews geven", "Vriendschappen maken", "Mode"],
         "agency": {
