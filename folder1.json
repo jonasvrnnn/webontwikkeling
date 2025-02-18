@@ -64,7 +64,7 @@
         "age": 18,
         "isActive": true,
         "birthDate": "2002-04-20",
-        "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/bakugo.jpg",
+        "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/Bakugo.webp",
         "rank": "Student Hero",
         "hobbies": ["Trainen", "Koken", "Explosies testen"],
         "agency": {
@@ -83,7 +83,7 @@
         "age": 17,
         "isActive": true,
         "birthDate": "2003-07-15",
-        "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/deku.jpg",
+        "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/deku.webp",
         "rank": "Student Hero",
         "hobbies": ["Helden analyseren", "Trainingsschema's maken", "Sporten"],
         "agency": {
@@ -96,13 +96,13 @@
     },
     {
         "id": 6,
-        "name": "Endeavor",
-        "heroName": "Enji Todoroki",
+        "name": "Enji Todoroki",
+        "heroName": "Endeavor",
         "description": "De huidige nummer 1 Pro Hero met de kracht van vuur.",
         "age": 46,
         "isActive": true,
         "birthDate": "1975-08-08",
-        "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/endeavor.jpg",
+        "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/endevor.webp",
         "rank": "Pro Hero",
         "hobbies": ["Trainen", "Strategieën ontwikkelen", "Familiebanden herstellen"],
         "agency": {
@@ -121,7 +121,7 @@
         "age": 18,
         "isActive": true,
         "birthDate": "2002-01-11",
-        "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/todoroki.jpg",
+        "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/Todoroki.webp",
         "rank": "Student Hero",
         "hobbies": ["Koken", "Trainen", "Boeken lezen"],
         "agency": {
@@ -159,7 +159,7 @@
         "age": 18,
         "isActive": true,
         "birthDate": "2002-03-04",
-        "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/suneater.jpg",
+        "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/tamaki.webp",
         "rank": "Student Hero",
         "hobbies": ["Eten", "Lezen", "Observeren"],
         "agency": {
@@ -178,7 +178,7 @@
         "age": 18,
         "isActive": true,
         "birthDate": "2002-10-06",
-        "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/nejire.jpg",
+        "image": "https://raw.githubusercontent.com/jonyboiii/MileStone0/refs/heads/main/images/nejire.webp",
         "rank": "Student Hero",
         "hobbies": ["Interviews geven", "Vriendschappen maken", "Mode"],
         "agency": {
