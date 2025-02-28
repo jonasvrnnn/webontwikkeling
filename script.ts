@@ -12,7 +12,7 @@ do {
       heroes.forEach((e) => {
         console.log(`${e.heroName} (${e.id})`);
       });
-      readline.question("\nDruk op Enter om verder te gaan...");
+      readline.question("\nPress enter to move on...");
       break;
     case "2":
       const id = readline.question(
@@ -23,7 +23,7 @@ do {
           return e.id === Number(id);
         })
       );
-      readline.question("\nDruk op Enter om verder te gaan...");
+      readline.question("\nPress enter to move on...");
       break;
     case "3":
       break;
