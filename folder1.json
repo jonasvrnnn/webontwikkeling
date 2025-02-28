@@ -7,7 +7,7 @@
     "age": 23,
     "isActive": true,
     "birthDate": "1997-12-28",
-    "image": "https://raw.githubusercontent.com/jonasvrnnn/projectopdracht-jonasvrnnn/refs/heads/main/images/hero.jpeg",
+    "image": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/projectopdracht-jonasvrnnn/refs/heads/main/images/hero.jpeg?token=GHSAT0AAAAAAC7XLGRZJOKOFMMI5OKJ52UGZ6BXHLA",
     "rank": "Pro Hero",
     "hobbies": ["Vliegen", "Spionage", "Lezen"],
     "agency": {
@@ -26,7 +26,7 @@
     "age": 31,
     "isActive": true,
     "birthDate": "1989-11-08",
-    "image": "https://raw.githubusercontent.com/jonasvrnnn/projectopdracht-jonasvrnnn/refs/heads/main/images/eraser_head.jpg",
+    "image": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/projectopdracht-jonasvrnnn/refs/heads/main/images/eraser_head.jpg?token=GHSAT0AAAAAAC7XLGRYUZGLI35CEUXBZ442Z6BXGVA",
     "rank": "Pro Hero",
     "hobbies": ["Slapen", "Training geven", "Katten verzorgen"],
     "agency": {
@@ -45,7 +45,7 @@
     "age": 49,
     "isActive": false,
     "birthDate": "1971-06-10",
-    "image": "https://raw.githubusercontent.com/jonasvrnnn/projectopdracht-jonasvrnnn/refs/heads/main/images/all_might.jpg",
+    "image": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/projectopdracht-jonasvrnnn/refs/heads/main/images/all_might.jpg?token=GHSAT0AAAAAAC7XLGRYENUOKKAD32OA5E62Z6BXE6A",
     "rank": "Ex-Pro Hero",
     "hobbies": ["Helden inspireren", "Les geven", "Training"],
     "agency": {
@@ -64,7 +64,7 @@
     "age": 18,
     "isActive": true,
     "birthDate": "2002-04-20",
-    "image": "https://raw.githubusercontent.com/jonasvrnnn/projectopdracht-jonasvrnnn/refs/heads/main/images/Bakugo.webp",
+    "image": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/projectopdracht-jonasvrnnn/refs/heads/main/images/Bakugo.webp?token=GHSAT0AAAAAAC7XLGRYIBGGL43DGLJDU2PEZ6BXCEA",
     "rank": "Student Hero",
     "hobbies": ["Trainen", "Koken", "Explosies testen"],
     "agency": {
@@ -83,7 +83,7 @@
     "age": 17,
     "isActive": true,
     "birthDate": "2003-07-15",
-    "image": "https://raw.githubusercontent.com/jonasvrnnn/projectopdracht-jonasvrnnn/refs/heads/main/images/deku.webp",
+    "image": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/projectopdracht-jonasvrnnn/refs/heads/main/images/deku.webp?token=GHSAT0AAAAAAC7XLGRY2W3KTC7LNNSXEBJYZ6BXFVA",
     "rank": "Student Hero",
     "hobbies": ["Helden analyseren", "Trainingsschema's maken", "Sporten"],
     "agency": {
@@ -102,7 +102,7 @@
     "age": 46,
     "isActive": true,
     "birthDate": "1975-08-08",
-    "image": "https://raw.githubusercontent.com/jonasvrnnn/projectopdracht-jonasvrnnn/refs/heads/main/images/endevor.webp",
+    "image": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/projectopdracht-jonasvrnnn/refs/heads/main/images/endevor.webp?token=GHSAT0AAAAAAC7XLGRZ5VR2U5JQPY4O2UMCZ6BXGGQ",
     "rank": "Pro Hero",
     "hobbies": [
       "Trainen",
@@ -144,7 +144,7 @@
     "age": 26,
     "isActive": true,
     "birthDate": "1994-03-01",
-    "image": "https://raw.githubusercontent.com/jonasvrnnn/projectopdracht-jonasvrnnn/refs/heads/main/images/mirko.jpg",
+    "image": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/projectopdracht-jonasvrnnn/refs/heads/main/images/mirko.jpg?token=GHSAT0AAAAAAC7XLGRYO64WAEYTBZ6734BWZ6BXIGA",
     "rank": "Pro Hero",
     "hobbies": ["Vechttraining", "Sprinten", "Meditatie"],
     "agency": {
@@ -163,7 +163,7 @@
     "age": 18,
     "isActive": true,
     "birthDate": "2002-03-04",
-    "image": "https://raw.githubusercontent.com/jonasvrnnn/projectopdracht-jonasvrnnn/refs/heads/main/images/tamaki.webp",
+    "image": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/projectopdracht-jonasvrnnn/refs/heads/main/images/tamaki.webp?token=GHSAT0AAAAAAC7XLGRZ7PRYFOQT2BJTK3OUZ6BXISA",
     "rank": "Student Hero",
     "hobbies": ["Eten", "Lezen", "Observeren"],
     "agency": {
@@ -182,7 +182,7 @@
     "age": 18,
     "isActive": true,
     "birthDate": "2002-10-06",
-    "image": "https://raw.githubusercontent.com/jonasvrnnn/projectopdracht-jonasvrnnn/refs/heads/main/images/nejire.webp",
+    "image": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/projectopdracht-jonasvrnnn/refs/heads/main/images/Nejire.webp?token=GHSAT0AAAAAAC7XLGRYKY7IQLK76V6ERJ3MZ6BXDXQ",
     "rank": "Student Hero",
     "hobbies": ["Interviews geven", "Vriendschappen maken", "Mode"],
     "agency": {
